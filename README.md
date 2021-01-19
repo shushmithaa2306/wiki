@@ -8,11 +8,12 @@ __SETUP__:
  <ul>
  <li> Clone this repository </li>
  <li> Install the python requirements and pip. <br>
- #After pip was installed, run
+ #After pip was installed, run <br>
 python -m pip install Django
  </li>
  </ul>
-__MARKDOWN CONVERSION :__
+ 
+# MARKDOWN CONVERSION
 <ul>
  <li>Uses Github Markdown syntax to write the contents of encyclopedia.</li>
  <li>The markdown is converted to HTML before displaying to the user. </li>
@@ -26,7 +27,7 @@ python manage.py makemigrations
 
 python manage.py migrate
 
-# run server
+# Run server
 python manage.py runserver
 </li>
 

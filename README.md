@@ -4,7 +4,7 @@
 
 The website is about how you search, edit and create page as we do in wikipedia. Each entry can be viewed by visiting that entry’s page.<br>
 
-__SETUP__:
+# SETUP 
  <ul>
  <li> Clone this repository </li>
  <li> Install the python requirements and pip. <br>
